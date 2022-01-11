@@ -20,6 +20,9 @@
     font-family: Mulish;
     src: url(/assets/fonts/Mulish/static/Mulish-Light.ttf);
 }*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&family=Mulish:wght@300&family=Poppins:wght@400;500;600;700&family=Rubik:wght@400;500;700&display=swap');
+
 body, div, p, ul, li, a, button, h1, h3, form, input, img {
     margin: 0;
     padding: 0;
